@@ -10,4 +10,4 @@
 <a href="https://storybook.js.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" alt="storybook" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuba-kola&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuba-kola&hide=TeX&layout=compact) -->
